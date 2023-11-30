@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b26cfb4c7d76e544a340b7ae4ef2ba6, type: 3}
+  m_Name: BestComputer
+  m_EditorClassIdentifier: 
+  comID: Com-02
+  prefabName: BestComputer
+  description: Best
+  electricityConsumed: 56
+  MinHeat: 16
+  MaxHeat: 90
+  heat: 34
+  cost: 1700
+  dankpersec: 2
+  image: {fileID: 0}
+  xposition: {fileID: 0}
+  yposition: {fileID: 0}

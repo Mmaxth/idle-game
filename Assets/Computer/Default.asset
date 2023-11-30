@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b26cfb4c7d76e544a340b7ae4ef2ba6, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  comID: Com-01
+  prefabName: Default
+  description: Default
+  electricityConsumed: 50
+  MinHeat: 15
+  MaxHeat: 50
+  heat: 25
+  cost: 1000
+  dankpersec: 1
+  image: {fileID: 21300000, guid: 1389316d2b3738340b6b5d888fbf57f3, type: 3}
+  xposition: {fileID: 0}
+  yposition: {fileID: 0}
